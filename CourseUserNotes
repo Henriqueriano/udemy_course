@@ -1,0 +1,20 @@
+-- The dotnet --info 
+This commands shows a list of dotnet sdks are instaled of u computer;
+
+-- The dotnet -h
+This command show a resumed helper for uses of the framework;
+
+:: uses dotnet (command) -h for take a help of the specifics command;
+
+-- The dotnet new list
+This command show a list of the project templates for dotnet;
+
+-- The dotnet new sln
+This command create a new sln file.
+
+:: note, this sln file is also like an "container" for your application. The container expression means to a shell ("invólucro' pt-br) for u apllication.
+
+-- Remenber to uses -controllers for big projects because missed that,  project will be uses the minimal api;
+:: example dotnet new webapi -controllers -n API.
+
+-- Finish this later stopped in Section 2. Video 6;
