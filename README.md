@@ -1,5 +1,5 @@
 # UDEMY_COURSE
-> Build an app with ASPNET Core and Angular from scratch
+> Build an app with ASPNET Core and Angular from scratch  
 > https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/
 
 # NOTES:
