@@ -17,4 +17,14 @@ This command create a new sln file.
 -- Remenber to uses -controllers for big projects because missed that,  project will be uses the minimal api;
 :: example dotnet new webapi -controllers -n API.
 
+-- The dotnet sln list
+Tis command show all projects included on a sln file.
+
+-- The dotnet sln add (u project)
+This command add an project for u sln shell (capsule of u projects);
+
+-- The code .
+This command will be open the VS Code in the folder u are. 
+
+-- Review the second section for remind later.
 -- Finish this later stopped in Section 2. Video 6;
